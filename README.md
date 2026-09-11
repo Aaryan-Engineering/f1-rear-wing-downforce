@@ -1,6 +1,6 @@
 # Extended Essay — Hyperbolic Rear Wing Aerodynamics
 
-**File:** `Extended_Essay_Submission.pdf`
+**File:** `rear-wing-downforce.pdf`
 **Subject:** Physics | **Word count:** 3999
 
 ## Research Question
